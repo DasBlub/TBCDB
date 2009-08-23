@@ -1,0 +1,14 @@
+The AUTHORS file:
+
+This file should collect a trace of all the legal paperwork that you have
+exchanged with contributors for your particular package. This information is
+very useful for registering the copyright of your package. The file might
+have an introductory blurb similar to this one:
+
+ Authors of TBCDB
+
+TBCDB is based on UDB, therefore the main authors are the authors of UDB.
+Please look at the UDB's website <http://www.udbforums.org/> to get an
+overview over the authors.
+
+TBCDB has been founded by DasBlub and Meldanor.
