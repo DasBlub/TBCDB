@@ -1,6 +1,6 @@
 = TBCDB -- History of visible changes =
 
-Copyright (C) 2008-2009 UDB project <http://udbforums.org/>
+Copyright (C) 2007-2009 UDB project <http://udbforums.org/>
 Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.0>
 
   TBCDB is free software; you can redistribute it and/or modify
@@ -20,6 +20,19 @@ Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.
 Visit our project website for documentation, and more:
 <http://udbforums.org/index.php?board=119.0>
 
+
+== Release: TBCDB 0.0.1 "You are not prepared" ==
+- 08/24/2009, DasBlub <dasblub@gmail.com>
+  First release from TBCDB!
+  Requires MaNGOS Core mangos-0.12 060_8412!
+
+  Commit content:
+  * Based on UDB rev. 365 (last UDB for 2.4.3 Client)
+  * Updated to MaNGOS Core mangos-0.12 060_8412
+  * Including SD2 1369
+  * Including ACID 2.0.0
+  * Fixed all startup errors from MaNGOS
+  * Backported table 'item_required_target' (wotlk content removed)
 
 == Repo created ==
 - 08/23/2009, DasBlub <dasblub@gmail.com>
