@@ -20,6 +20,23 @@ Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.
 Visit our project website for documentation, and more:
 <http://udbforums.org/index.php?board=119.0>
 
+== Release: TBCDB 0.0.2  "I... am... UNLEASHED" ==
+- 09/27/2009, DasBlub <dasblub@gmail.com>
+  Requires MaNGOS Core mangos-0.12 066_8409!
+  Requires ScriptDev2 r1414 with the backport-patch!
+
+  Commit content:
+  * Updated to MaNGOS Core mangos-0.12 066_8409
+  * Including ScriptDev2 r1414
+  * Fixed all startup errors from SD2 and MaNGOS
+  * Backports from udb382 by jovy
+    * spell_area
+    * db_script_string
+    * quest_start_scripts
+    * quest_end_scripts
+    * spell_target_position
+    * areatrigger_involvedrelation
+    * event_scripts
 
 == Release: TBCDB 0.0.1 "You are not prepared" ==
 - 08/24/2009, DasBlub <dasblub@gmail.com>
