@@ -20,6 +20,20 @@ Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.
 Visit our project website for documentation, and more:
 <http://udbforums.org/index.php?board=119.0>
 
+== Update: TBCBD 0.0.2.1 ==
+- 10/22/2009, DasBlub <dasblub@gmail.com>
+  Requires MaNGOS Core mangos-0.12 076_8702!
+  Requires ScriptDev2 r1475 with the backport-patch!
+  Requires ACID 2.0.1!
+
+  This is only an update which is required for ACID 2.0.1!
+  This is NOT a new release!
+
+  Commit content:
+  * Updated to MaNGOS Core mangos-0.12 076_8702
+  * Including ScriptDev2 r1478
+  * Backported the KillCredits from udb383 (required for ACID 2.0.1!)
+
 == Release: TBCDB 0.0.2  "I... am... UNLEASHED" ==
 - 09/27/2009, DasBlub <dasblub@gmail.com>
   Requires MaNGOS Core mangos-0.12 066_8409!
