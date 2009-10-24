@@ -20,7 +20,18 @@ Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.
 Visit our project website for documentation, and more:
 <http://udbforums.org/index.php?board=119.0>
 
-== Update: TBCBD 0.0.2.1 ==
+== Update: TBCDB 0.0.2.2 ==
+- 10/25/2009, DasBlub <dasblub@gmail.com>
+  Requires MaNGOS Core mangos-0.12 076_8702!
+  Requires ScriptDev2 r1475 with the backport-patch!
+
+  This is only an update to get the battlegrounds back working again!
+  This is NOT a new release!
+
+  Commit content:
+  * Backported the BG2DB sql's from udb383 by Salja
+
+== Update: TBCDB 0.0.2.1 ==
 - 10/22/2009, DasBlub <dasblub@gmail.com>
   Requires MaNGOS Core mangos-0.12 076_8702!
   Requires ScriptDev2 r1475 with the backport-patch!
