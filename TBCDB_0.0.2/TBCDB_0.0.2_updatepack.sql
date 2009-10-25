@@ -26,7 +26,8 @@ Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.
 UPDATE db_version SET version = 'TBCDB 0.0.2 \'I... am... UNLEASHED\' for MaNGOS-0.12 066 with SD2 SQL for rev. 1413';
 
 /* SPELL_AREA - backported from udb382 by jovy */
-DELETE FROM spell_area WHERE spell IN (33836, 35480, 35481, 35482, 35483, 40214, 40216, 40567, 40568, 40572, 40573, 40575, 40576, 41608, 41609, 41610, 41611, 41617, 41618, 41619, 41620, 42016, 45373, 46837, 46839);  INSERT INTO spell_area (spell, area, quest_start, quest_start_active, quest_end, aura_spell, racemask, gender, autocast) VALUES
+DELETE FROM spell_area WHERE spell IN (33836, 35480, 35481, 35482, 35483, 40214, 40216, 40567, 40568, 40572, 40573, 40575, 40576, 41608, 41609, 41610, 41611, 41617, 41618, 41619, 41620, 42016, 45373, 46837, 46839);
+INSERT INTO spell_area (spell, area, quest_start, quest_start_active, quest_end, aura_spell, racemask, gender, autocast) VALUES
 (33836, 3803, 0, 0, 0, 0, 0, 0, 0),
 (35480, 2367, 0, 0, 0, 0, 690, 0, 1),
 (35481, 2367, 0, 0, 0, 0, 690, 1, 1),
