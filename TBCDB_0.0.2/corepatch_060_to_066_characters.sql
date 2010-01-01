@@ -2,10 +2,10 @@
 = TBCDB -- Release 0.0.2 "I... am... UNLEASHED" =
 corepatch for the 'characters' database, MaNGOS-0.12 060 to 066
 
-Copyright (C) 2007-2009 UDB project <http://udbforums.org/>
-Copyright (C) 2006-2009 ScriptDev2 <http://www.scriptdev2.com/>
-Copyright (C) 2008-2009 ACID <http://www.scriptdev2.com/>
-Copyright (C) 2009-2009 TBCDB project <http://udbforums.org/index.php?board=119.0>
+Copyright (C) 2007-2010 UDB project <http://udbforums.org/>
+Copyright (C) 2006-2010 ScriptDev2 <http://www.scriptdev2.com/>
+Copyright (C) 2008-2010 ACID <http://www.scriptdev2.com/>
+Copyright (C) 2009-2010 TBCDB project <http://udbforums.org/index.php?board=119.0>
 
   TBCDB is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
